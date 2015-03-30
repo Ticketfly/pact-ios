@@ -1,0 +1,12 @@
+PODS:
+  - OHHTTPStubs (3.1.11):
+    - OHHTTPStubs/Core (= 3.1.11)
+  - OHHTTPStubs/Core (3.1.11)
+
+DEPENDENCIES:
+  - OHHTTPStubs
+
+SPEC CHECKSUMS:
+  OHHTTPStubs: e6ecc3fd4fa11b2cfb5f4823421bddc95a82913d
+
+COCOAPODS: 0.36.1
